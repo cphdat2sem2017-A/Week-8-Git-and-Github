@@ -6,4 +6,5 @@
 * G4: Joachim og Peter. Project: https://github.com/cph-jh332/Cupcake
 * G6: Christian og Moe. Project: https://github.com/Runfire22/Cupcake 
 * G8: Kasper og Anton: Project: https://github.com/LennartBedrager/CupcakeShop
+* G9 Mathias, Stefan: https://github.com/Stefaneliasendk/Cupcakes
 * G10 David, Tjalfe, Kasper: https://github.com/KasperOnFire/Cupcakeshop
