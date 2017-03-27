@@ -11,4 +11,4 @@
 * G8: Kasper og Anton: Project: https://github.com/LennartBedrager/CupcakeShop
 * G9 Mathias, Stefan: https://github.com/Stefaneliasendk/Cupcakes
 * G10 David, Tjalfe, Kasper: https://github.com/KasperOnFire/Cupcakeshop
-* G11 Marco Kristian: https://github.com/CaptainVillain/Cupkek
+* G11 Marco Kristian: https://github.com/CaptainVillain/Cupcake
