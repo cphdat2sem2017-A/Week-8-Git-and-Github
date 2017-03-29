@@ -6,7 +6,7 @@ This week is a preparation for starting on the semester project. In this week we
 ## Studymaterial:
 The book: Pro GIT [Mainly chapter 2-4](https://git-scm.com/book/en/v2) 
  
-Good explanation of [the 3 workflows](https://www.atlassian.com/git/tutorials/comparing-workflows).
+Good explanation of [the 4 workflows](https://www.atlassian.com/git/tutorials/comparing-workflows).
 
 This is a small interactive tutorial on branching [here](http://learngitbranching.js.org/)  
 
